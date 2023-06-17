@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Menti
+tagline:          'A Jekyll theme'
+description:      'An interesting person <a href="https://www.youtube.com/watch?v=FEdR6vy-gV8" target="_red">tortured</a> by life and her favorite tea turns out to be realitea!<a href="https://www.youtube.com/watch?v=FEdR6vy-gV8" target="_blank">@David</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Menti'
+  url:            https://github.com/MengtingShen/mengtingshen.github.io/actions
+
+paginate:         5
+
+# Custom vars
+version:          1.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
